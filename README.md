@@ -1,5 +1,5 @@
 
-# **AI-Powered Reconnaissance Tool**
+# **AI-Powered Reconnaissance Tool(Still-Testing)**
 
 ### **Project Overview**
 This project implements a **reconnaissance bot** designed to collect and analyze various public information about a domain or IP address. It integrates several open-source tools and APIs to gather data from different sources, such as **WHOIS databases**, **port scanning**, **subdomain enumeration**, **security services**, and **reconnaissance APIs**. The collected data is then processed and summarized using OpenAI's **GPT-3.5** model, making it an advanced, intelligent tool for domain intelligence gathering.
