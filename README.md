@@ -51,7 +51,7 @@ To use this tool, follow these steps:
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/your-username/recon-bot.git
+    git clone https://github.com/kiddoCodex/recon-bot.git
     ```
 
 2. **Install dependencies** using `pip`:
